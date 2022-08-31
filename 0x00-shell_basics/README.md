@@ -1,1 +1,1 @@
-change working directory to users home directory
+display directory in long format
