@@ -1,1 +1,1 @@
-display contents of directory
+making my furst dirctory
