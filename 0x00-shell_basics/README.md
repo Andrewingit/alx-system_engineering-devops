@@ -1,1 +1,1 @@
-changin woking directory
+script that prints
