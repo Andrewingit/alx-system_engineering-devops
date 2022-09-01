@@ -1,1 +1,1 @@
-script that executes permission to all subdirectories
+script that creates a directory
