@@ -1,1 +1,1 @@
-adding execute permission to file
+adding all the permissions required
