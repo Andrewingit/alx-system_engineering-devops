@@ -1,1 +1,1 @@
-setting the mode of the file to be similar
+script that executes permission to all subdirectories
