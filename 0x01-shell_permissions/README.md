@@ -1,1 +1,1 @@
-execution permission to everyone
+setting permission to the file
