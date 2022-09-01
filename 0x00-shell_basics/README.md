@@ -1,1 +1,1 @@
-read hidden files
+display contents of directory
