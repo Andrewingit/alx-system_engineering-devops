@@ -1,1 +1,1 @@
-display content of 2 files
+displat rhe last 10 lines
