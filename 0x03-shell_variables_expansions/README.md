@@ -1,1 +1,1 @@
-script that prints the result of power and divide
+display the result of breath to the power
