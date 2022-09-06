@@ -1,1 +1,1 @@
-script that prints hello user
+adding to the path
