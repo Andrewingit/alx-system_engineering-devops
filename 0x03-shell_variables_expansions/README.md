@@ -1,1 +1,1 @@
-creates a new global variable
+a script that prints results 
