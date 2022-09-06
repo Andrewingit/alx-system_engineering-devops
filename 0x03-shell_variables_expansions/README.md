@@ -1,1 +1,1 @@
-creates a script that listss enviroment variables
+script that lists all local variables
